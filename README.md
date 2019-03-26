@@ -1,4 +1,3 @@
 GITHUB CHECKPOINT ASSIGNMENT
 # the_pantry
-# the_pantry
-# the_pantry_assignment
+# A simple assignment to learn how to create, configure, open, push, pull, fetch, merge from the command line. 
